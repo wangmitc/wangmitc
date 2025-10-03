@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangmitc&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/wangmitc" alt="watching_count" />
